@@ -171,7 +171,7 @@
     </ul>
     <a class="btn-download" href="#" onclick="window.print()">Download as PDF</a>
   </section>  <div class="footer">
-    <p>© 2025 D Gokul. All Rights Reserved.</p>
+    <p> D Gokul.</p>
   </div>
 </body>
 </html>
